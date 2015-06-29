@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<enemies>
+  
+  <enemy name="Rat">
+    <strength>1</strength>
+    <agility>1</agility>
+    <endurance>1</endurance>
+  </enemy>
+  
+  <enemy name="Snake">
+    <strength>1</strength>
+    <agility>1</agility>
+    <endurance>2</endurance>
+  </enemy>
+
+</enemies>

@@ -1,0 +1,11 @@
+C:\Magic Bubbles\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Magic Bubbles\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Magic Bubbles\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Magic Bubbles\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Magic Bubbles\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Magic Bubbles\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Magic Bubbles\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Magic Bubbles\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Magic Bubbles\obj\Debug\UnityVS.Magic Bubbles.CSharp.csprojResolveAssemblyReference.cache
+C:\Magic Bubbles\obj\Debug\Assembly-CSharp.dll
+C:\Magic Bubbles\obj\Debug\Assembly-CSharp.pdb
